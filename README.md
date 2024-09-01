@@ -1,7 +1,10 @@
 - name, pronouns = 'LoneNyck', 'He/Him'
-- #University student
+- nationality = 'italian'
+- languages = ['italian', 'english']
+- coding_languages = ['python', 'C++', 'HTML and CSS']
+  
+- occupation = 'University student'
 - age = 19
-- passion = programming
 
 - print(f"Hello world, {name} here!")
 
